@@ -1,0 +1,20 @@
+Daqiqah Awareness — third-party acknowledgments
+
+React / React DOM — Meta Platforms, Inc. and affiliates — MIT License.
+Vite — Vite contributors — MIT License.
+@vitejs/plugin-react — Vite contributors — MIT License.
+Lucide React — Lucide contributors — ISC License; some Feather-derived icons use MIT.
+Noto Sans Arabic — The Noto Project Authors — SIL Open Font License 1.1.
+Package license files are supplied with the respective installed npm packages.
+
+Editorial references: NASA, US Federal Trade Commission (FTC),
+OpenStax (Rice University), and California State University, Northridge Library.
+Original Arabic questions and scenarios were created for this project.
+No third-party photographs or textbook images are used.
+Individual source links are provided with each explanation.
+These references do not imply endorsement or affiliation.
+
+Motion 14.5.0 and its dependencies — Motion Division — MIT License.
+GSAP 3.15.0 / ScrollTrigger — GreenSock standard no-charge license.
+https://gsap.com/standard-license
+License texts and notices are included in licenses/.
